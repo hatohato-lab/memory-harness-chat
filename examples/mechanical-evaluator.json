@@ -1,0 +1,4 @@
+{
+  "argv": ["python", "{config_dir}/mechanical_evaluator.py"],
+  "kind": "mechanical inspection of generated files; not a measure of Claude behavior"
+}

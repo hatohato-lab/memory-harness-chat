@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+.memory-harness/
+# Run and demo output embeds absolute local paths; never commit it.
+demo-result/
+*-demo/
+runs/
+# Private review and working documents stay out of the published tree.
+*.docx
+*-peer-review-*
+*-review-*.docx
